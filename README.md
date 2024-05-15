@@ -1,9 +1,12 @@
-<h2> Hi, I'm Victor Velasco! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazk0MGVzbzl5dDlsczdlMWZyM3ZzNzQ1ZXJmNTB3dnA2bjJwbjlteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XGn2UzT2RC17g5srwB/giphy.gif" width="40"></h2>
+<h2> Hi, I'm Victor Velasco!  🌎</h2> 
 <img align='right' src="/src/pictures/programmer.jpeg" width="230" style="border-radius: 50%;">
-<p><em>Computer Enginner at <a href="https://www.udg.mx/">University of Guadalajara</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Junior at <a href="https://redom8.com/">redOM8</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p>Computer Enginner at <a href="https://www.udg.mx/">University of Guadalajara </a> 🏫 
+</br>
+Developer Junior at <a href="https://redom8.com/">redOM8</a> 🏢
+</p>
 
 [![Static Badge](https://img.shields.io/badge/victor_velasco-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=black&color=black)](https://www.linkedin.com/in/victor-velasco-0398101a3/)
+[![Static Badge](https://img.shields.io/badge/codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=black&color=black)](https://codeforces.com/profile/Victor_Velasco)
 ![GitHub followers](https://img.shields.io/github/followers/victor012396?style=for-the-badge&logo=github&labelColor=black)
 
 
@@ -17,15 +20,14 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### 🌌 A little more about me...  
 
 ```javascript
 const victor = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, C++],
   tools: [Odoo, React, Node, Docker],
-  architecture: ["microservices", "client-server"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  architecture: ["microservices", "client-server"]
 }
 ```
 
