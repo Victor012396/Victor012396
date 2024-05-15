@@ -15,6 +15,8 @@ Developer Junior at <a href="https://redom8.com/">redOM8</a> 🏢
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/ARDUINO-white?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/EXCEL-blue?style=for-the-badge&logo=microsoft%20excel&logoColor=white&labelColor=black&color=black)
+
 
 
 
